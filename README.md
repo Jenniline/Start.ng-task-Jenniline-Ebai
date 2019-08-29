@@ -4,8 +4,8 @@
 
 * The link to my firstcommit which is the firstname.html
 
-* The link to my blog post on lucid    
-https://lucid.blog/jennilineebai   
+* The link to my blog post on lucid for the css task
+https://lucid.blog/jennilineebai/
 
 * The link to the tweet about Flutterwave    
 https://twitter.com/EbaiJenniline/status/1165233698159153152
