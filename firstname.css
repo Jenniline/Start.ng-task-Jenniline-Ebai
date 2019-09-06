@@ -103,6 +103,23 @@ body{
             height:2px;
             text-decoration:underline; 
     }
+
+    #image {
+        max-width: 20;
+        max-height:50%;
+        width: 20;
+        height: 20;
+        border: 10px solid transparent;
+         padding: 15px;
+         height: 100px;
+         width:auto;
+        
+         -webkit-transform:rotate(1800deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+    }
    
     
     
